@@ -5,6 +5,15 @@
 }
 
 .page {
-  width: 600px;
+  width: 960px;
   margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
