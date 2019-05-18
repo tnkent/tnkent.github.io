@@ -9,10 +9,11 @@
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 
-.section {
+.content {
   width: 600px;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
 }
